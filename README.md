@@ -1,0 +1,1 @@
+# For detailed explanations, please refer to the README.md of my previous project, "Deploying Django Blog on AWS: ALB, Auto Scaling, S3, RDS, VPC, Lambda, DynamoDB, CloudFront, and Route 53.
